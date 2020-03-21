@@ -1,1 +1,2 @@
-# sass-demo-website
+# Sass demo website
+Written about in my Medium article.
